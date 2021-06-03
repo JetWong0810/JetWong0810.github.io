@@ -4,4 +4,4 @@
 
 [这是一个链接]: www.baidu.com	"测试链接"
 
-[图片链接](
+[图片链接](www.baidu.com)
